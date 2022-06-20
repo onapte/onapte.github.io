@@ -1,0 +1,15 @@
+@import url('https://fonts.googleapis.com/css2?family=Darker+Grotesque:wght@800&display=swap');
+
+.Projects {
+    font-size: 25px;
+    /* background-color: rgb(245, 221, 196); */
+    background: linear-gradient(to right, #12c2e9, #c471ed, #f64f59);
+    text-align: center;
+    margin-bottom: 20px;
+    padding-bottom: 15px;
+}
+
+.Title-Projects {
+    font-family: 'Darker Grotesque', sans-serif;
+    font-size: 55px;
+}

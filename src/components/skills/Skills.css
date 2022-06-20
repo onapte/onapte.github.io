@@ -1,0 +1,86 @@
+@import url('https://fonts.googleapis.com/css2?family=Darker+Grotesque:wght@800&display=swap');
+
+.Skills {
+    /* background-color: rgb(240, 228, 247); */
+    background: linear-gradient(to right, #C6FFDD, #FBD786, #f7797d);
+    margin-bottom: 20px;
+}
+
+.Title-Skill {
+    font-family: 'Darker Grotesque', sans-serif;
+    font-size: 55px;
+} 
+
+.Skills-content {
+    padding: 20px;
+    display: flex;
+}
+
+.Skills-name {
+    flex: 5;
+    text-align: center;
+}
+
+.Skills-name > ul {
+    list-style-type: none;
+}
+
+.Skills-name > ul > li {
+    margin-bottom: 28px;
+    font-weight: bolder;
+    font-size: 24px;
+}
+
+.Skills-bar {
+    flex: 5;
+    text-align: center;
+}
+
+.Skills-bar > ul {
+    list-style-type: none;
+}
+
+.Skills-bar > ul > li {
+    margin-bottom: 28px;
+    font-size: 24px;
+}
+
+.Skill-bar-div-p {
+    background-color: #CCC;
+}
+
+.Skill-bar-div-c {
+    width: 90%;
+    text-align: center;
+    background: linear-gradient(to right, #00AAFF, #00FF6C);
+}
+
+.Skill-2 {
+    width: 80%;
+}
+
+.Skill-3, .Skill-4, .Skill-5, .Skill-6 {
+    width: 70%;
+}
+
+.Skill-7, .Skill-8 {
+    width: 60%;
+}
+
+.Skill-9 {
+    width: 50%;
+}
+
+.Skill-10, .Skill-11 {
+    width: 30%;
+}
+
+.Skill-icon {
+    height: 47px;
+}
+
+meter {
+    /* -webkit-appearance: none; */
+    --background: #dadada;
+    width: 50%;
+}

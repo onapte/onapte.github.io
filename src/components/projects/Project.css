@@ -1,0 +1,52 @@
+.Project {
+    background-color: white;
+    margin: 0 auto;
+    width: 50%;
+    opacity: 1;
+    padding-bottom: 10px;
+    padding-top: 10px;
+    margin-bottom: 30px;
+}
+
+.Project-image > img {
+    max-width: 95%;
+}
+
+.Project-Title {
+    font-family: Arial;
+    font-weight: bold;
+    font-size: 2rem;
+}
+
+.Project-Date {
+    font-size: 1rem;
+    font-weight: bolder;
+    color: cadetblue;
+}
+
+.Project-Status {
+    font-size: 1rem;
+    font-weight: bolder;
+    color: goldenrod;
+}
+
+.Project-Description {
+    font-size: 20px;
+    padding: 5px;
+}
+
+.Project-Link {
+    font-size: 1rem;
+    font-weight: bolder;
+    color: lightskyblue;
+}
+
+a {
+    text-decoration: none;
+}
+
+@media screen and (max-width: 800px) {
+    .Project {
+        width: 95%;
+    }
+}
