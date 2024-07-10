@@ -21,7 +21,7 @@ repository               : "onapte/onapte.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile_image.jpg"
+  avatar           : "profile_image1.png"
   name             : "Onkar Apte"
   pronouns         : # example: "she/her"  
   bio              : "I study Computer Science."
