@@ -25,17 +25,17 @@ author:
   name             : "Onkar Apte"
   pronouns         : # example: "she/her"  
   bio              : "I study Computer Science."
-  location         : "Earth"
+  location         : "Indore, India"
   employer         : "University of Colorado Boulder"
   uri              : # URL
-  email            : "" 
+  email            : #
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
-  googlescholar    : "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
+  googlescholar    : "https://scholar.google.com/citations?user=Udg_XycAAAAJ&hl=en"
   impactstory      : # URL
   orcid            : "https://orcid.org/0009-0002-1744-9915"
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  pubmed           : # URL
   researchgate     : # URL
 
   # Repositories and software development
@@ -44,10 +44,10 @@ author:
   dribbble         : # Username
   github           : "onapte"
   kaggle           : # Username  
-  stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
+  stackoverflow    : "17324341/onapte"    
 
   # Social media
-  bluesky          : "bsky.app" # Replace this with you Bluesky username
+  bluesky          : # Replace this with you Bluesky username
   facebook         : # Username
   flickr           : # Username
   foursquare       : # Username
