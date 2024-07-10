@@ -1,10 +1,10 @@
 ---
 permalink: /
-title: "Academic Pages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "Welcome to my site!"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-# Hi, I'm Onkar!
+My name is Onkar Apte. I'm recent graduate in Computer Science and Engineering. My research interests revolve around general Deep Learning.
