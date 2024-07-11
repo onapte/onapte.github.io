@@ -2,7 +2,7 @@
 title: "Undergraduate Teaching Assistant - Structured and Object Oriented Programming"
 collection: teaching
 type: "Undergraduate course"
-permalink: /teaching/2014-spring-teaching-1
+permalink: /teaching/undergraduate-teaching-assistant
 venue: "Vellore Institute of Technology, School of Computer Science and Engineering"
 date: 2024-02-01
 location: "Chennai, India"
